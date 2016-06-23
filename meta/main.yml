@@ -1,0 +1,23 @@
+galaxy_info:
+  author: Frederic Leger
+  description: Ansible role to install wkhtmltopdf on Debian.
+  company: webofmars
+
+  license: BSD
+
+  min_ansible_version: 1.4
+
+  platforms:
+  - name: Debian
+    versions:
+    - all
+
+  galaxy_tags:
+    - web
+    - development
+    - php
+    - librairies
+    - wkhtml2pdf
+    - wkhtmltopdf
+
+dependencies: []
